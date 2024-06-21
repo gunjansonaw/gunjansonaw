@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-Hello, I'm Gunjan, a passionate Computer Science and Engineering (CSE) undergraduate student at Savitribai Phule Pune University (SPPU). I am deeply immersed in the world of technology, constantly exploring new horizons and pushing the boundaries of innovation.My journey into the realm of software development started with a fascination for coding and problem-solving. Throughout my academic journey at SPPU, I have gained a strong foundation in programming languages such as Python and C++, along with a deep understanding of algorithms and data structures.Driven by my curiosity and thirst for knowledge, I have dived into modern web development technologies like React.js and backend frameworks like Django. This hands-on experience has equipped me to create dynamic and responsive web applications that deliver exceptional user experiences. As I continue my journey in Computer Science and Engineering, I am excited about the opportunities to leverage my skills and contribute to groundbreaking projects that make a positive impact on society. I am open to new challenges and collaborations that allow me to grow and thrive in this ever-evolving field.Let's connect and explore the possibilities of creating innovative solutions together!
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [gunjansonawane462@gmail.com](mailto:gunjansonawane462@gmail.com)
