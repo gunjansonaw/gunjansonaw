@@ -1,34 +1,58 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gunjan Sonawane
-=======================================================================================================================================
+# Hi there, I'm Gunjan Sonawane 👋
 
-Backend Developer
------------------
+[cite_start]**Software Engineer / Backend Developer** based in Pune, India [cite: 6, 7]  
+[cite_start]Focused on building scalable backend microservices, REST APIs, and developer tooling[cite: 7, 8, 16].
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gunjansonawane-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gunjansonawane)
+[![GitHub](https://img.shields.io/badge/GitHub-gunjansonaw-181717?style=flat-square&logo=github)](https://www.github.com/gunjansonaw)
+[![Email](https://img.shields.io/badge/Email-gunjansonawane462%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:gunjansonawane462@gmail.com)
 
-* 🌍  I'm based in Pune
-* ✉️  You can contact me at [gunjansonawane462@gmail.com](mailto:gunjansonawane462@gmail.com)
+---
 
-<a href="https://www.github.com/gunjansonaw" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/gunjansonaw?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### 🚀 About Me
 
-### Skills
+* [cite_start]🛠️ Software Engineer with experience developing platform services, internal developer tooling, and automated issue detection systems at **Red Hat**[cite: 7, 8, 11].
+* [cite_start]⚡ Core focus on high-performance backend systems using **Python (FastAPI, Django REST Framework)**, **PostgreSQL**, and asynchronous processing with **Celery & Redis**[cite: 7, 32, 35, 46, 47].
+* [cite_start]🤖 Hands-on with **LLM integration**, **Model Context Protocol (MCP)**, and AI-assisted developer workflows[cite: 8, 20, 49].
+* [cite_start]🎓 B.Tech in Computer Science & Engineering from **Savitribai Phule Pune University** (2025)[cite: 37, 38, 39].
 
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Databases & Caching**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps, Containers & AI Tooling**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude%20%2F%20MCP-D97706?style=flat-square&logo=anthropic&logoColor=white)
+
+---
+
+### 💼 What I've Built
+
+* [cite_start]**Internal Developer Tooling & Insights (Red Hat)**: Built FastAPI microservices, Snowflake data pipelines, rule-based diagnostic logics for Red Hat Insights Core, and MCP-integrated internal doc search tooling[cite: 16, 17, 19, 20].
+* [cite_start]**MediLink**: A healthcare management platform featuring 20+ REST APIs, JWT/RBAC auth, Celery task queues, and interactive React dashboards[cite: 32, 33, 34, 35].
+
+---
+
+### 📊 GitHub Stats
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=gunjansonaw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gunjan's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjansonaw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/gunjansonaw" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gunjansonawane" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/gunjansonaw"><img src="https://github-readme-stats.vercel.app/api?username=gunjansonaw&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gunjansonaw's GitHub stats" /></a>
-
-<a href="http://www.github.com/gunjansonaw"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjansonaw&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/gunjansonaw" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjansonaw&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
